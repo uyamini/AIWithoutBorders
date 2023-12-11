@@ -1,4 +1,5 @@
-# Blood Cancer Diagnosis
+# Blood Cancer Diagnosis 
+via AI without Borders
 
 ## Aim
 
