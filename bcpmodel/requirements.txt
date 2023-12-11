@@ -1,0 +1,7 @@
+scipy>=0.14
+keras
+requests
+flask
+tensorflow
+Image
+numpy
